@@ -4,6 +4,5 @@ This is my starter app for React.
 
 Configured with:
 
-- React
-- React Router
+- Vite - Frontend Tooling (https://vitejs.dev/)
 - Yarn
